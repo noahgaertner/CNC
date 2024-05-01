@@ -1,0 +1,14 @@
+/users/ngaertne/CNC/workloads/4xgapbs.csv
+/users/ngaertne/CNC/workloads/502_gcc_r.csv
+/users/ngaertne/CNC/workloads/502xleela.csv
+/users/ngaertne/CNC/workloads/527_cam4_r.csv
+/users/ngaertne/CNC/workloads/527xleela.csv
+/users/ngaertne/CNC/workloads/541_leela_r.csv
+/users/ngaertne/CNC/workloads/557_xz_r.csv
+/users/ngaertne/CNC/workloads/557xleela.csv
+/users/ngaertne/CNC/workloads/fill_private_microbench.csv
+/users/ngaertne/CNC/workloads/flush_and_reload.csv
+/users/ngaertne/CNC/workloads/gapbs_all_cores.csv
+/users/ngaertne/CNC/workloads/noah_scs.csv
+/users/ngaertne/CNC/workloads/program.csv
+/users/ngaertne/CNC/workloads/shared_data_microbench.csv

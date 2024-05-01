@@ -1,0 +1,2 @@
+/users/ngaertne/CNC/workloads/4xgapbs.csv
+/users/ngaertne/CNC/workloads/gapbs_all_cores.csv

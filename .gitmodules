@@ -1,0 +1,6 @@
+[submodule "DRAMSim2"]
+	path = DRAMSim2
+	url = git@github.com:umd-memsys/DRAMSim2.git
+[submodule "zsim"]
+	path = zsim
+	url = git@github.com:s5z/zsim.git

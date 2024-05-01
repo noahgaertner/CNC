@@ -1,0 +1,4 @@
+/users/ngaertne/CNC/workloads/flush_and_reload.csv
+/users/ngaertne/CNC/workloads/noah_mcs.csv
+/users/ngaertne/CNC/workloads/noah_scs.csv
+/users/ngaertne/CNC/workloads/program.csv

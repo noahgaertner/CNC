@@ -1,0 +1,5 @@
+/users/ngaertne/CNC/workloads/fill_private_microbench.csv
+/users/ngaertne/CNC/workloads/flush_and_reload.csv
+/users/ngaertne/CNC/workloads/noah_scs.csv
+/users/ngaertne/CNC/workloads/program.csv
+/users/ngaertne/CNC/workloads/shared_data_microbench.csv

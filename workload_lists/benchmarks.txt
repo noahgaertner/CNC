@@ -1,0 +1,9 @@
+/users/ngaertne/CNC/workloads/4xgapbs.csv
+/users/ngaertne/CNC/workloads/502_gcc_r.csv
+/users/ngaertne/CNC/workloads/502xleela.csv
+/users/ngaertne/CNC/workloads/527_cam4_r.csv
+/users/ngaertne/CNC/workloads/527xleela.csv
+/users/ngaertne/CNC/workloads/541_leela_r.csv
+/users/ngaertne/CNC/workloads/557_xz_r.csv
+/users/ngaertne/CNC/workloads/557xleela.csv
+/users/ngaertne/CNC/workloads/gapbs_all_cores.csv
