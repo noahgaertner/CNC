@@ -77,7 +77,6 @@ if bench_sort:
         idx_1 = find_nth(test, "_", 1)
         idx_2 = find_nth(test, "_", 2)
         percentage = test[idx_1+1:idx_2]
-        # print(percentage)
         key = test[idx_2+1:] + '_' + percentage
         test_dict[key] = test
         
