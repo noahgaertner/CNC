@@ -2,7 +2,7 @@
 ## Note
 Generates kinda worthless data b/c zsim doesn't support exclusive caches, which are neccesary for our model to work. May also have other issues, unsure.
 
-Should still be a useful example of how to build scaffolding around zsim for mass runs/sweeps.
+Should still be a useful example of how to build scaffolding around zsim for mass runs/sweeps, especially in emulab clusters.
 
 ## How to Run
 
